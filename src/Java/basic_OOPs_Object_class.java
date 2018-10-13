@@ -33,7 +33,7 @@ public class basic_OOPs_Object_class {
 		System.out.println(obj1.s);
 		
 		System.out.println(obj1.i);
-		Throwable
+		
 		
 	}
 
