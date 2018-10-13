@@ -6,7 +6,7 @@ public class check1 {
 		
 		int i=6;
 		System.out.println(i/0);
-		System.out.println("Test");  
+		/*System.out.println("Test");  */
 		
 	}
 
